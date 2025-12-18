@@ -1,10 +1,12 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> [QuantImport](https://quantimportbrazil.github.io/Sobre/)
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
+
+**[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**
 
 ---
 
 # Previsão de Importação - Jundiaí-SP
 
-> **Emissão:** 11-2025
+> **Emissão:** 12-2025
 > 
 > A seguir são apresentadas previsões e, para fim de comparação, valores reais de períodos anteriores.
 > 
@@ -14,10 +16,14 @@
 > 
 > A exatidão das previsões pode ser aumentada através do processo de ajuste fino [(otimização de hiperparâmetros)](https://en.wikipedia.org/wiki/Hyperparameter_optimization), que é realizado sob demanda.
 >
+---  
+  
+  
+![Gráfico de Previsão](3104.png) 
+  
 ---
 
-**[Home](https://quantimportbrazil.github.io/Sobre/)**  
-
-
-
-![Gráfico de Previsão](3102.png)
+## Contato
+**André Coutinho Bueno**  
+Cientista de Dados e Fundador  
+[andre.bueno@quantimport.com.br](mailto:andre.bueno@quantimport.com.br)
