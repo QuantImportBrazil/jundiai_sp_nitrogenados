@@ -1,16 +1,14 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport 🎄✨  
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**
 
 ---
 
-# Previsão de Importação - Jundiaí-SP
+## Previsão de Importação
 
-> **Emissão:** 12-2025
+> **Emissão:** 1-2026
 > 
 > A seguir são apresentadas previsões e, para fim de comparação, valores reais de períodos anteriores.
-> 
-> As previsões foram geradas tendo o mês 10 anterior como último mês conhecido.
 > 
 > O objetivo aqui é demonstrar o formato geral do gráfico.
 > 
@@ -19,9 +17,16 @@
 ---  
   
   
-![Gráfico de Previsão](Jundiaí_Nitrogenados1.png) 
-<sub>Previsto* - Tamanho do X corresponde à probabilidade da importação ocorrer</sub>
-  
+![Gráfico de Previsão](download14.png)
+<sub>* Tamanho do X corresponde à probabilidade da importação ocorrer</sub>  
+<sub>* IC: Intervalo de Confiança</sub>  
+
+---
+
+## Exemplo de Fatores Influenciadores
+
+![Importância dos Fatores](fi14.png) 
+
 ---
 
 ## Contato
