@@ -1,35 +1,44 @@
-# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
+
+# <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Voltar para Demos](https://quantimportbrazil.github.io/Demo/)**
 
 ---
 
-## Previsão de Importação
-
 > **Emissão:** 1-2026
-> 
-> A seguir são apresentadas previsões e, para fim de comparação, valores reais de períodos anteriores.
-> 
-> O objetivo aqui é demonstrar o formato geral do gráfico.
-> 
-> A exatidão das previsões pode ser aumentada através do processo de ajuste fino [(otimização de hiperparâmetros)](https://en.wikipedia.org/wiki/Hyperparameter_optimization), que é realizado sob demanda.
->
----  
-  
-  
-![Gráfico de Previsão](download17.png)
-<sub>* Tamanho do X corresponde à probabilidade da importação ocorrer</sub>  
-<sub>* IC: Intervalo de Confiança</sub>  
 
 ---
 
-## Exemplo de Fatores Influenciadores
+## Análise ao longo do ano  
+![](images/overview.png)  
+* O tamanho da marca "x verde" é proporcional a probabilidade da instância ocorrer.  
+* Os testes foram feitos sobre os últimos 15 anos.
 
-![Importância dos Fatores](fi17.png) 
 
 ---
 
-## Contato
-**André Coutinho Bueno**  
-Cientista de Dados e Fundador  
-[andre.bueno@quantimport.com.br](mailto:andre.bueno@quantimport.com.br)
+## Análise mês a mês
+
+![](images/Jan.png)
+![](images/Fev.png)
+![](images/Mar.png)
+![](images/Abr.png)
+![](images/Mai.png)
+![](images/Jun.png)
+![](images/Jul.png)
+![](images/Ago.png)
+![](images/Set.png)
+![](images/Out.png)
+![](images/Nov.png)
+![](images/Dez.png)
+
+---
+
+## Principais fatores (ML)
+
+![](tables/fatores_ml.png)
+
+
+---
+
+*Modelos utilizados: Machine Learning e Regressão Linear.*
